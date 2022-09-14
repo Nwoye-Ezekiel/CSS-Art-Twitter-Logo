@@ -4,6 +4,6 @@ This is a CSS-created digital graphical image of the [Twitter](https://twitter.c
 
 View Live [Here](https://nwoye-ezekiel.github.io/CSS-Art-Twitter-Logo/)
 
-### Reference image
+### Reference Image
 
 ![Twitter-Logo](/Twitter-Logo.webp)
